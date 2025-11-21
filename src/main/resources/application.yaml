@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: maildoc
+server:
+  port: 8085
